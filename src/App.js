@@ -1,22 +1,25 @@
-import logo from './logo.svg';
+import fitness from './fitness.gif';
 import './App.css';
+import MyDailyFitness from './components/MyDailyFitness';
+import TableComponent from './components/TableComponent';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+        <img src={fitness} alt="logo" />
+        <MyDailyFitness />
+        <TableComponent />
+        <br></br>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://daddao.org/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Built For Dads
         </a>
+        <p>by JessieBroke</p>
       </header>
     </div>
   );

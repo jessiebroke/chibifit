@@ -1,0 +1,55 @@
+table {
+  max-width: 100%;
+  border-collapse: collapse;
+  overflow-x: auto; /* Enable horizontal scrolling on small screens */
+  color: #001c30;
+}
+  
+th, td {
+  border: 1px solid black;
+  padding: 8px;
+  white-space: wrap; /* Prevent text wrapping */
+}
+
+th {
+  background-color: #176b87
+}
+
+.special-row {
+  background-color: #64ccc5;
+  font-weight: bold;
+}
+
+.container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.content {
+  background-color: #dafffB;
+  padding: 20px;
+}
+
+.content input[type="checkbox"] {
+  transform: scale(2); /* Increase the scale factor to make the checkbox bigger */
+}
+
+td {
+  text-align: center; /* Adjust text alignment as needed */
+  overflow: hidden; /* Hide any overflowing content */
+  text-overflow: ellipsis; /* Add ellipsis (...) for truncated content */
+}
+
+
+@media only screen and (max-width: 412px) {
+  .container {
+    font-size: 12px; /* Default font size for the container */
+    padding: 1em; /* Default padding based on the font size of the container */
+  }
+  .content {
+    font-size: 1em; /* Font size scaled based on the container's font size */
+    padding: 0.5em; /* Padding scaled based on the container's font size */
+  }
+}
