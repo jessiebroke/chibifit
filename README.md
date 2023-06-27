@@ -1,10 +1,10 @@
-ChibiFit
+# ChibiFit
 
-A private daily fitness tracker
+`A private daily fitness tracker`
 
-Todo:
+## Todo:
 
-Features
+### Features
 - Add login via auth0 or sign-in with Ethereum (SIWE)
 - Add save state functionality tied to account
 - Update current date of workout day with ability to go back and forth between future and past days
@@ -16,6 +16,6 @@ Features
 - Bet against friends and pool tokens to "compete", winners who maintain streak split pooled tokens
 - Push notification reminders for you should work out you haven't done your exercises today
 
-Workflow Improvements
+### Workflow Improvements
 - Automate writing changelogs based on aggregating past commits
 - Automate build process via GitHub actions to Docker container
