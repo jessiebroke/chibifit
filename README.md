@@ -13,9 +13,9 @@
 - [Add] last time you exercised
 - [Add] functionality and rewards for monitoring streaks
 - [Add] some token balance in the top right corner of app
-- [Add] Bet against friends and pool tokens to "compete", winners who maintain streak split pooled tokens
-- [Add] Push notification reminders for you should work out you haven't done your exercises today
+- [Add] bet against friends and pool tokens to "compete", winners who maintain streak split pooled tokens
+- [Add] push notification reminders for you should work out you haven't done your exercises today
 
 ### Workflow Improvements
-- [Add] Automate writing changelogs based on aggregating past commits
-- [Add] Automate build process via GitHub actions to Docker container
+- [Add] automate writing changelogs based on aggregating past commits
+- [Add] automate build process via GitHub actions to Docker container
