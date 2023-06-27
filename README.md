@@ -1,6 +1,6 @@
 # ChibiFit
 
-`A private daily fitness tracker`
+`A private daily fitness tracker` hosted at chibifit.xyz
 
 ## Todo:
 
