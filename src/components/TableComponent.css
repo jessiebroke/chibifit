@@ -29,11 +29,10 @@ th {
 
 .content {
   background-color: #dafffB;
-  padding: 20px;
 }
 
 .content input[type="checkbox"] {
-  transform: scale(2); /* Increase the scale factor to make the checkbox bigger */
+  transform: scale(1.5); /* Increase the scale factor to make the checkbox bigger */
 }
 
 td {
@@ -45,11 +44,11 @@ td {
 
 @media only screen and (max-width: 360px) {
   .container {
-    font-size: 12px; /* Default font size for the container */
+    font-size: 12%; /* Default font size for the container */
     padding: 1em; /* Default padding based on the font size of the container */
   }
   .content {
-    font-size: 1em; /* Font size scaled based on the container's font size */
+    font-size: 4em; /* Font size scaled based on the container's font size */
     padding: 0.5em; /* Padding scaled based on the container's font size */
   }
 }
