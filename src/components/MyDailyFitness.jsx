@@ -4,7 +4,7 @@ import './MyDailyFitness.css';
 function MyDailyFitness() {
     return (
         <div>
-            <h1>ChibiFat</h1>
+            <h1>ChibiFit</h1>
             {/* <p>(Dads Achieving Fitness with Anime-themed Network Integration and Memorable Exercise)</p> */}
 {/* Daring
 Active
