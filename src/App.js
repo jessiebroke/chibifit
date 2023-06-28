@@ -17,9 +17,9 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Built For Dads
+          Built with Dads in mind
         </a>
-        <p>by JessieBroke</p>
+        <p>by <a href="https://www.github.com/jessiebroke">JessieBroke</a></p>
       </header>
     </div>
   );
