@@ -19,7 +19,7 @@ function App() {
         >
           Built with Dads in mind
         </a>
-        <p>by <a href="https://www.github.com/jessiebroke">JessieBroke</a></p>
+        <p><a href="https://www.github.com/jessiebroke">JessieBroke</a></p>
       </header>
     </div>
   );
