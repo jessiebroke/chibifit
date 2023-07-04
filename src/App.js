@@ -17,7 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Built with Dads in mind
+          Built with Dads in mind.
         </a>
         <p><a href="https://www.github.com/jessiebroke">JessieBroke</a></p>
       </header>
