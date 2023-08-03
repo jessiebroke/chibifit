@@ -3,6 +3,7 @@
 `A private daily fitness tracker` hosted at [https://chibifit.xyz](https://chibifit.xyz)
 
 ## Todo:
+- [ ] Move entire app from app header into body lol
 
 ### Features
 - [Add] login via auth0 or sign-in with Ethereum (SIWE)
